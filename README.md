@@ -23,21 +23,6 @@ DevOpsAgent-Workshop-Taipei-Summit/
 │   ├── 02-skills.md
 │   ├── 03-webhook-trigger.md
 │   └── 04-incident-triage.md
-└── images/
-    ├── chatalarm.png
-    ├── artifact.png
-    ├── skills.png
-    └── triagesave.png
 ```
 
-## 待補 / 需人工確認
 
-擷取過程中有兩處被系統的隱私遮罩改掉，已在 `03-webhook-trigger.md` 標上明顯佔位符，請對照原頁面補上：
-
-1. **`SECRET=` 那行**（Step 2）— 格式應與上一行 `WEBHOOK_URL="..."` 相同。
-2. **第二種驗證方法名稱**（How this works in production 段）— HMAC 之外、供 Splunk/Datadog/New Relic/ServiceNow/Slack 用的那一種。
-
-## 備註
-
-- 程式碼區塊已移除網站的行號，可直接複製貼上。
-- 內容為節錄（Chat & Artifacts / Skills / Webhook Trigger / Incident Triage 四個模組），非完整 workshop。
