@@ -6,7 +6,6 @@ When multiple incidents arrive close together, the agent's **triage phase** auto
 
 ### Step 1: Trigger a second webhook incident
 
-Run this shortly after Module 7. The agent uses a ~20-minute look-back window for correlation — if too much time passes, it won't link the incidents.
 
 From your Session Manager terminal, send another webhook with a slightly different description:
 
