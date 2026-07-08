@@ -43,7 +43,8 @@ Create a brief incident report for the CPU alarm that fired today.
 
 This will take a few minutes to generate.
 
-![Artifact example](../images/artifact.png)
+![Uploading artifact.png…]()
+
 
 The artifact appears in a dedicated panel alongside the conversation. You can:
 
