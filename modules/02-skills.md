@@ -63,8 +63,8 @@ Contains detailed diagnostic procedures:
 2. Click **Start Investigation**.
 3. Use the **exact same prompt** as Module 2:
 
-   ```
-   A CloudWatch alarm has triggered on an EC2 instance. Investigate what is happening and determine if action is needed.
+```
+A CloudWatch alarm has triggered on an EC2 instance. Investigate what is happening and determine if action is needed.
    
 ```
 4. Name: `workshop-investigation-2`
@@ -87,7 +87,8 @@ CORES=$(nproc) && for i in $(seq 1 $CORES); do (yes > /dev/null) & echo $! >> /t
 | Recommendations | Generic | Specific and actionable |
 | Skill visibility | No skill loaded | Expands to show skill being used |
 
-![Skills comparison](../images/skills.png)
+<img width="1204" height="637" alt="image" src="https://github.com/user-attachments/assets/252d7e1d-b19a-477f-82b9-b9c70b363481" />
+
 
 ### Key takeaway
 
