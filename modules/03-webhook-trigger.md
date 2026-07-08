@@ -22,7 +22,7 @@ This step is done in the **AWS Management Console** — not the DevOps Agent web
 
 ```
 WEBHOOK_URL="<paste your webhook endpoint URL>"
-SECRET="<paste your secret key>"   # [此處原文被系統遮罩，請對照原頁面補上，格式同上一行]
+SECRET="<paste your secret key>"
 ```
 
 3. Run the following to trigger an investigation:
@@ -81,6 +81,6 @@ ServiceNow ticket created → Built-in integration → Investigation starts
 Webhooks support two authentication methods:
 
 - **HMAC** (what we just used) — for generic webhooks and Dynatrace
-- **[請對照原頁面補上驗證方法名稱]** — for Splunk, Datadog, New Relic, ServiceNow, Slack integrations
+- **Bearer token ** — for Splunk, Datadog, New Relic, ServiceNow, Slack integrations
 
 In production, you'd configure your monitoring tools to call this webhook automatically. The agent starts investigating within seconds of receiving the event. Note: the agent may link this to a previous investigation if it determines they are related.
