@@ -1,8 +1,8 @@
 # DevOps Agent Workshop — Taipei Summit
 
-Hands-on 教材節錄，取自 AWS workshop **"Getting Started with AWS DevOps Agent: A Hands-On Walkthrough"**，供 Summit workshop 使用。
+Hands-on 教材節錄，取自 AWS workshop **"AWS DevOps Agent Workshop for Incident Investigation"**，供 Summit workshop 使用。
 
-> 原始 workshop：<https://catalog.us-east-1.prod.workshops.aws/workshops/d58f8530-da8b-42c9-8223-44a0c59acc44/en-US>
+> 原始 workshop：<https://catalog.us-east-1.prod.workshops.aws/workshops/70720414-d7ce-402c-893c-57a6d292cdabS>
 
 > One Click join Link : <https://catalog.us-east-1.prod.workshops.aws/join?access-code=2638-055a73-8d>
 
