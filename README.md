@@ -4,6 +4,8 @@ Hands-on 教材節錄，取自 AWS workshop **"Getting Started with AWS DevOps A
 
 > 原始 workshop：<https://catalog.us-east-1.prod.workshops.aws/workshops/d58f8530-da8b-42c9-8223-44a0c59acc44/en-US>
 
+> One Click join Link : <https://catalog.us-east-1.prod.workshops.aws/join?access-code=2638-055a73-8d>
+
 ## 模組 Modules
 
 | # | 模組 | 內容 |
