@@ -2,7 +2,7 @@
 
 Hands-on 教材節錄，取自 AWS workshop **"AWS DevOps Agent Workshop for Incident Investigation"**，供 Summit workshop 使用。
 
-> 原始 workshop：https://catalog.us-east-1.prod.workshops.aws/workshops/70720414-d7ce-402c-893c-57a6d292cdab/en-US)
+> 原始 workshop：https://catalog.us-east-1.prod.workshops.aws/workshops/70720414-d7ce-402c-893c-57a6d292cdab/en-US
 
 > One Click join Link : <https://catalog.us-east-1.prod.workshops.aws/join?access-code=2638-055a73-8d>
 
