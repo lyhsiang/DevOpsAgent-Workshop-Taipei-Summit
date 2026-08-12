@@ -38,7 +38,7 @@ PAYLOAD=$(cat <<EOF
   "action": "created",
   "priority": "HIGH",
   "title": "High CPU detected on production EC2 instance",
-  "description": "CloudWatch alarm AWS-DevOpsAgent-EC2-CPU-Test triggered. CPU utilization exceeded 70% threshold. Immediate investigation required.",
+  "description": "CloudWatch alarm Lab2-ASG-CPU-High triggered. CPU utilization exceeded 70% threshold. Immediate investigation required.",
   "service": "EC2-Workshop-Test",
   "timestamp": "$TIMESTAMP",
   "data": {
